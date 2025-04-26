@@ -33,8 +33,8 @@
 - Inventory management systems
 
 ## 📈 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=/kaalprogrammer&show_icons=true&theme=radical)](https://github.com/kaalprogrammer/kaalprogrammer)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=/kaalprogrammer&layout=compact&theme=radical)](https://github.com/kaalprogrammer/kaalprogrammer)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kaalprogrammer&show_icons=true&theme=radical)](https://github.com/kaalprogrammer/kaalprogrammer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaalprogrammer&layout=compact)](https://github.com/kaalprogrammer/kaalprogrammer)
 
 ## 🔥 Current Projects
 1. **[Odoo-Electron Integration]** - Building desktop wrapper for Odoo
